@@ -107,21 +107,37 @@ Buttons
 - - - - - - - - - - - - - - - - 
 Toggle Features
 • Zoom Hack
+
 • Full Access
+
 • Unlimited Text (not really it's only 256 letters, it could be 640 but I can't convert byte to int with a explicit cast, I'll try later maybe it was bugging
+
 • Fast Place
+
 • Anti-Knockback
+
 • Unlimited Oxygen
+
 • No Air Resistance so it'll feel better moving about while in the air
+
 • High Jump
+
 • Triple Jump
+
 • Local Player, not really useful just there for testing stuff
+
 • Anti-DMG I think it's the same as the button not sure as I never use it
+
 • Unlimited Deaths, won't work in Nether, PixelMines or Secret Base though
+
 • No-Clip just there because why not?
+
 • Randomize Character, this will change your skin colour & flag at the same time
+
 • Chat Commands, allows people to control you with stuff like /frostdeath, /firedeath, /rainbow, /jump, /right, /left, /jumpright, /jumpleft chat commands are laggy though as I'm using the in game function for it, for some reason it'll duplicate the commands being sent and also miss out some commands being sent
+
 • Chat Logger, logs chat but it's buggy 
+
 • Auto-Replace Blocks this will replace stuff like spikebombs, sawblade and spikes but for some reason it'll bug out and replace stuff that isn't it do I know why? Probably the function is being called too quickly
 
 • Clone Chat, it'll show a text box to enter a players name in, once done it'll try and copy what they say (needs to be fully correct with caps etc)
