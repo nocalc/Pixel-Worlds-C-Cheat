@@ -1,5 +1,5 @@
 # Pixel-Worlds-C-Cheat
-Simple C# Pixel Worlds Cheat/Mod Menu or whatever you want to call it with Unity GUI. 2560x1440 resolution recommended to see the whole UI
+Simple C# Pixel Worlds Cheat/Mod Menu or whatever you want to call it which is made with Unity GUI. 2560x1440 resolution recommended to see the whole UI
 
 To use this you'll need Melon Loader as an injector, you can find this online if you search MelonLoader, go on their website which is https://melonwiki.xyz/#/README?id=manual-installation and get the 64bit version, once done launch it go to your Pixel Worlds directory and install it there, once you've done this then run & close the game and put the .dll in the Mod folder which will be located in the same place where you've installed Pixel Worlds.
 
@@ -7,11 +7,17 @@ Will I release the source for this? No I most likely won't, nobody will have the
 
 Why does this lack some basic features such as Anti-Bounce etc? Well I haven't hooked any functions for this cheat, I've only called functions and manipulated results of other functions, if I knew how to I would but Harmony Patcher is confusing me, I haven't really looked into any tutorials on how to hook/patch functions that much as I can't get my head around it, either way this may be annoying but they're simple to create in Cheat Engine, may make a tutorial on it if people really care or want one, most of these cheats on here won't be amazingly useful as I'm a troll and farming or anything like that won't bother me so yeah.
 
-Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas
+Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas and may also make a version for lowe resoultion as there is a toggle UI on the far right of the screen you won't be able to see without 2560x1440 resoultion
 
 Discord: CharonXXIII#1203
+Youtube: https://www.youtube.com/channel/UCQrfkYmwW1vUMzClTLUaV9A
 
 Features
+- - - - - - - - - - - - - - - - 
+
+HOTKEYS: F3, F4, Numpad + and Numpad -
+
+Buttons
 - - - - - - - - - - - - - - - - 
 • Logout of any account, no need to use registery unless you want to stop PW from tracking your account information across other accoutns
 
@@ -94,6 +100,40 @@ Features
 • Access List this gives you the list of players who have access to World Locks & also Smaller Locks (Large, Medium, Small etc)
 
 • Join Mine this allows you to join a level 1 mine without being at the world, nothing useful just there for laziness
+
+
+
+
+- - - - - - - - - - - - - - - - 
+Toggle Features
+• Zoom Hack
+• Full Access
+• Unlimited Text (not really it's only 256 letters, it could be 640 but I can't convert byte to int with a explicit cast, I'll try later maybe it was bugging
+• Fast Place
+• Anti-Knockback
+• Unlimited Oxygen
+• No Air Resistance so it'll feel better moving about while in the air
+• High Jump
+• Triple Jump
+• Local Player, not really useful just there for testing stuff
+• Anti-DMG I think it's the same as the button not sure as I never use it
+• Unlimited Deaths, won't work in Nether, PixelMines or Secret Base though
+• No-Clip just there because why not?
+• Randomize Character, this will change your skin colour & flag at the same time
+• Chat Commands, allows people to control you with stuff like /frostdeath, /firedeath, /rainbow, /jump, /right, /left, /jumpright, /jumpleft chat commands are laggy though as I'm using the in game function for it, for some reason it'll duplicate the commands being sent and also miss out some commands being sent
+• Chat Logger, logs chat but it's buggy 
+• Auto-Replace Blocks this will replace stuff like spikebombs, sawblade and spikes but for some reason it'll bug out and replace stuff that isn't it do I know why? Probably the function is being called too quickly
+
+• Clone Chat, it'll show a text box to enter a players name in, once done it'll try and copy what they say (needs to be fully correct with caps etc)
+
+•Player Hit this just makes it so you get hit or so your skin turns red I guess
+
+• Tutorial Skip, this allows you to skip the part where you need to buy clothes so straight after you pickup the gems which you've got from breaking blocks
+
+• Account Login, this just allows you to login to a account quicker I normally use it if someone bans me, just join back since it's funny
+
+• Info this will just show some info on Chat Commands & Toggle
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Thank You To krak#7305 As He's Helped Me Out On This
