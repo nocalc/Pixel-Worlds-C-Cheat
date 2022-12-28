@@ -106,6 +106,7 @@ Buttons
 
 - - - - - - - - - - - - - - - - 
 Toggle Features
+- - - - - - - - - - - - - - - - 
 • Zoom Hack
 
 • Full Access
@@ -155,7 +156,7 @@ Toggle Features
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 2nd Menu
-
+- - - - - - - - - - - - - - - - 
 • Copy & Pasta of Patrick Bateman & also Walter White's confession because why the hell not?
 
 • NPC Bot, it's buggy but funny and I was bored so if it's afk for 15 seconds or more it'll send a message if someone says what quest then it'll respond with information about some random ass quest which is non-existent, why? Why not.
