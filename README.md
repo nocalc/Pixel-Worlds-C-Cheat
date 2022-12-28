@@ -7,6 +7,8 @@ Will I release the source for this? No I most likely won't, nobody will have the
 
 Why does this lack some basic features such as Anti-Bounce etc? Well I haven't hooked any functions for this cheat, I've only called functions and manipulated results of other functions, if I knew how to I would but Harmony Patcher is confusing me, I haven't really looked into any tutorials on how to hook/patch functions that much as I can't get my head around it, either way this may be annoying but they're simple to create in Cheat Engine, may make a tutorial on it if people really care or want one, most of these cheats on here won't be amazingly useful as I'm a troll and farming or anything like that won't bother me so yeah.
 
+Why am I releasing this? As much as I love Pixel Worlds it's being more boring lately with the lack of frequent updates or at least a major update or new items and I also just can't play this game much, it's sad to see how people get scammed by stealers still so it thought why not just make my private cheat public and like I said I won't be releasing source so nobody can turn this into a stealer.
+
 Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas and may also make a version for lowe resoultion as there is a toggle UI on the far right of the screen you won't be able to see without 2560x1440 resoultion
 
 Discord: CharonXXIII#1203
