@@ -96,6 +96,5 @@ Features
 • Join Mine this allows you to join a level 1 mine without being at the world, nothing useful just there for laziness
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Thank You To As He's Helped Me Out On This
-krak#7305
+Thank You To krak#7305 As He's Helped Me Out On This
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
