@@ -17,6 +17,9 @@ Features
 
 HOTKEYS: F3, F4, Numpad + and Numpad -
 
+FLIGHT HOTKEYS: Arrow Keys
+Buggy Azz Teleport Keys: Num1, Num2, Num3, Num5
+
 Buttons
 - - - - - - - - - - - - - - - - 
 • Logout of any account, no need to use registery unless you want to stop PW from tracking your account information across other accoutns
