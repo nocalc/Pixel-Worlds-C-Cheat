@@ -12,6 +12,7 @@ Why am I releasing this? As much as I love Pixel Worlds it's being more boring l
 Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas and may also make a version for lowe resoultion as there is a toggle UI on the far right of the screen you won't be able to see without 2560x1440 resoultion
 
 Discord: CharonXXIII#1203
+
 Youtube: https://www.youtube.com/channel/UCQrfkYmwW1vUMzClTLUaV9A
 
 Features
