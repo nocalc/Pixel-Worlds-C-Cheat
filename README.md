@@ -167,5 +167,5 @@ Toggle Features
 
 • NPC Bot, it's buggy but funny and I was bored so if it's afk for 15 seconds or more it'll send a message if someone says what quest then it'll respond with information about some random ass quest which is non-existent, why? Why not.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Thank You To krak#7305 As He's Helped Me Out On This
+Also A Thank You To krak#7305 As He's Helped Me Out On This
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
