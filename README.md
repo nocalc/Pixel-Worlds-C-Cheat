@@ -1,6 +1,19 @@
 # Pixel-Worlds-C-Cheat
 Simple C# Pixel Worlds Cheat/Mod Menu or whatever you want to call it which is made with Unity GUI. 2560x1440 resolution recommended to see the whole UI
 
+- - - - - - - - - - - - - - - - 
+Added:
+
+ESP for enemies, collectables and other players
+
+Tracers/ESP Boxes
+
+Collectables in world data
+
+Suggestions Open, Discord:CharonXXIII#1203
+
+- - - - - - - - - - - - - - - - 
+
 To use this you'll need Melon Loader as an injector, you can find this online if you search MelonLoader, go on their website which is https://melonwiki.xyz/#/README?id=manual-installation and get the automated install one unless you're weird and want to install it manually then get the 64bit version, once done launch it go to your Pixel Worlds directory and install it there, once you've done this then run & close the game and put the .dll in the Mod folder which will be located in the same place where you've installed Pixel Worlds.
 
 Will I release the source for this? No I most likely won't, nobody will have the source at all except from me as I feel like people will just take the source and add a stealer to the cheats so I won't be releasing it so you don't get scumbags going around scamming others for their accounts or items.
